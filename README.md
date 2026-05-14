@@ -55,11 +55,4 @@ To understand the growth and adoption of Electric Vehicles in the U.S. and deriv
 3. Explore the interactive dashboard or edit for further customization.
 4. Refer to the `.pptx` presentation for a summarized walkthrough of the insights.
 
-## 📧 Contact
-
- Shubham Kumar
-📍 Ghaziabad, India  
-✉️ [shubhu2809as@gmail.com](mailto:shubhu2809as@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar-513565274) | [GitHub](https://github.com/Shubhu2809)
-
 > 💡 _This project demonstrates skills in data visualization, storytelling with data, and domain-specific analysis in electric vehicles._
